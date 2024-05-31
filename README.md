@@ -29,7 +29,7 @@ To run the project, use the following command:
 1. Environment Setup
 
 ```
-conda create -p venv python==3.9
+conda create -p venv python==3.8
 
 ```
 
@@ -45,3 +45,10 @@ pip install -r requirements.txt
 ```
 python application.py
 ```
+
+Built with:
+
+python 3.8
+flask
+Machine Learning
+Scikit learn
