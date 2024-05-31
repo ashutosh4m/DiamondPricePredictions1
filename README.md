@@ -46,9 +46,11 @@ pip install -r requirements.txt
 python application.py
 ```
 
-## Built with:
+## Built With
 
-### python 3.8
-### flask
-### Machine Learning
-### Scikit learn
+- **Language:** Python 3.8
+- **Web Framework:** Flask
+- **Frontend:** HTML5
+- **Libraries:** Scikit Learn
+
+
