@@ -23,8 +23,8 @@ Target variable:
 Dataset Source Link :
 [https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
 
-### Usage
-## Usage
+### Usage:
+
 To run the project, use the following command:
 1. Environment Setup
 
