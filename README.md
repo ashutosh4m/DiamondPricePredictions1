@@ -22,3 +22,26 @@ Target variable:
 
 Dataset Source Link :
 [https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
+
+### Usage
+## Usage
+To run the project, use the following command:
+1. Environment Setup
+
+```
+conda create -p venv python==3.9
+
+```
+
+
+```
+conda activate venv/
+```
+2. Install Requirements
+```
+pip install -r requirements.txt
+```
+3. Run Application
+```
+python application.py
+```
